@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shreyash
-- 👀 I’m interested in cybersecurity, python
-- 🌱 I’m currently learning python and java 
-- 💞️ I’m looking to collaborate on any cybersecurity related projects
+- 👋 Hi, I’m Shreyash Chauhan
+- 👀 I’m interested in cybersecurity, python, django
+- 🌱 I’m currently learning python, django, selenium and solidity 
+- 💞️ I’m looking to collaborate on any cybersecurity and automation related projects
 - 📫 How to reach me : shreyashchauhan.work@gmail.com
 
 <!---
